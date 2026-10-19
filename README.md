@@ -4,13 +4,13 @@ A client portal for a software house. Every project walks through the five phase
 **Discovery → Specification → Design → Development → Launch**, with a checklist per phase,
 progress that the client can see, and a comment thread for questions.
 
-Built in two days as a working answer to one question: *can you ship Flutter and NestJS?*
+A working answer to one question: *can you ship Flutter and NestJS?*
 
 | | |
 |---|---|
 | **iOS app (TestFlight)** | _link below once the build clears Beta App Review_ |
-| **API** | `https://API_URL_PLACEHOLDER` |
-| **API docs (Swagger)** | `https://API_URL_PLACEHOLDER/docs` |
+| **API** | `https://milestone-api-cdfyeh6qpa-ew.a.run.app` |
+| **API docs (Swagger)** | `https://milestone-api-cdfyeh6qpa-ew.a.run.app/docs` |
 | **Demo account** | `demo@milestone.app` / `demo1234` |
 
 ## What it does

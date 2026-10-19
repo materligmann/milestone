@@ -2,7 +2,7 @@
 /// Override at build time: `flutter run --dart-define=API_URL=http://localhost:3000`.
 const apiBaseUrl = String.fromEnvironment(
   'API_URL',
-  defaultValue: 'https://milestone-api.erligmann.dev',
+  defaultValue: 'https://milestone-api-cdfyeh6qpa-ew.a.run.app',
 );
 
 const demoEmail = 'demo@milestone.app';
