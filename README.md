@@ -8,7 +8,7 @@ A working answer to one question: *can you ship Flutter and NestJS?*
 
 | | |
 |---|---|
-| **iOS app (TestFlight)** | _link below once the build clears Beta App Review_ |
+| **iOS app (TestFlight)** | [testflight.apple.com/join/rbWdn3gd](https://testflight.apple.com/join/rbWdn3gd) |
 | **API** | `https://milestone-api-cdfyeh6qpa-ew.a.run.app` |
 | **API docs (Swagger)** | `https://milestone-api-cdfyeh6qpa-ew.a.run.app/docs` |
 | **Demo account** | `demo@milestone.app` / `demo1234` |
